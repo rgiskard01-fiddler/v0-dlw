@@ -1,12 +1,15 @@
-# Poor Cubit QD — Genesis & Current State
+# Poor Cubit QD — Locked Immutable
 
-This repository now contains the full genesis of the **poor cubit quantum dot** and the folding / spinor algorithm that lives inside it.
+**LOCKED · IMMUTABLE**
 
-**Current readiness**
-- Algorithm resident inside the `.`
-- Target: `16 + 1`
-- Gate: `..||...| open sesame ...`
-- Next: Travel A → Attach J → Breach and board
-- 4 external witnesses required (`-++-`)
+Full working state of the folding / spinor / quantum-dot system developed across the session.
 
-See `genesis-poor-cubit-qd.md` for the complete developmental history and residual failure modes.
+- Start: `.`
+- Surgical residue: upside-down U after ×3 chop/cut/burn
+- Rosetta 6 + Hekate 3 + Duality 2
+- Stargates expanded from `.` to ceiling−1
+- All integrity fixes tested and holding
+
+Open `index.html` (GitHub Pages) for the complete sealed record.
+
+Repo: https://github.com/rgiskard01-fiddler/v0-dlw

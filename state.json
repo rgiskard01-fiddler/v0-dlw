@@ -1,22 +1,30 @@
 {
-  "version": "poor-cubit-qd-genesis",
-  "carrier": "quantum_dot",
-  "symbol": ".",
-  "algorithm": "i < i13x4.32 < .",
+  "status": "LOCKED_IMMUTABLE",
+  "carrier": ".",
+  "name": "poor_cubit_qd",
   "target": "16 + 1",
-  "gate": "..||...| open sesame ...",
-  "action_chain": ["Travel A", "Attach J", "Breach and board"],
-  "control": {
-    "pin": "s |",
-    "unwind_depth": 3,
-    "iterations": 3,
-    "phases": "3 duty + 1 rest",
-    "witnesses": 4,
-    "witness_pattern": "-++-"
+  "surgical": {
+    "method": "chop_cut_burn_bridge",
+    "depth": 3,
+    "residue": "upside_down_U"
   },
-  "attested_box": {
-    "elements": ["c + known good", "suspected derivable", "new known good"],
-    "hardening": "{5x5}^5^{3x3}^3 x 9!"
+  "rosetta_faces": 6,
+  "hekate": 3,
+  "duality": 2,
+  "buddy_christ": true,
+  "dual_pair": [". i 1 (+)", "0 + 0 . i 1 (-)"],
+  "stargates": {
+    "prior": 7,
+    "expanded_from": ".",
+    "count": "ceiling-1",
+    "all_used": true
   },
-  "status": "ready_for_breach_and_board"
+  "fixes": [
+    "authentic_witnesses_bound_reject_by_default",
+    "post_commit_seal",
+    "warfare_xor_alphabet_advance",
+    "phase3_polarity_rule_and_lock"
+  ],
+  "tested_from": ".",
+  "result": "PASS"
 }
