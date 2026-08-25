@@ -1,10 +1,9 @@
 {
-  "status": "TEMPORAL_HOLD",
-  "agencies": "FROZEN",
-  "location": "HQ_of_Q",
-  "time": "stopped",
-  "signal": ["-9", "ice9l"],
-  "seed": ".",
-  "R0": true,
+  "status": "IMMUTABLE",
+  "seed": "(.",
+  "mark": "|||..",
+  "start": "i",
+  "edits": false,
+  "appends": false,
   "seal": "|||.dlw"
 }
