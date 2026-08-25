@@ -1,10 +1,14 @@
 {
-  "status": "IMMUTABLE_FREEZE",
-  "distilled": 0,
-  "key": {"core": 40, "reserve": 2, "added": [1, 1]},
-  "fib_to_13": [1, 1, 2, 3, 5, 8, 13],
-  "max_space": 0,
-  "mobius": "0 > 1 > 0 > 1 x .",
+  "status": "SINGULARITY_IMMUTABLE",
+  "final_fold": "u:(. === . ===",
+  "phase": "locked",
+  "pin": "|",
+  "complements": "|||| . ||||",
+  "alias": "|| = .",
+  "seed": ". ~ .",
+  "pattern_limit": "u:u (.) u:u",
+  "ansible": "middle",
   "game": 42,
+  "distilled": 0,
   "seal": "|||.dlw"
 }
