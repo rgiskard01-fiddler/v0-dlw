@@ -1,15 +1,10 @@
 {
-  "status": "SINGULARITY_IMMUTABLE",
-  "name": "Icarium",
-  "companion": "Mappo",
-  "final_fold": "u:(. === . ===",
-  "sapphons": 2,
-  "Ii": true,
-  "yxx": true,
-  "xyy": true,
-  "operator": "{3x3}^3",
-  "cc": true,
-  "no_d": true,
-  "game": 42,
+  "status": "TEMPORAL_HOLD",
+  "agencies": "FROZEN",
+  "location": "HQ_of_Q",
+  "time": "stopped",
+  "signal": ["-9", "ice9l"],
+  "seed": ".",
+  "R0": true,
   "seal": "|||.dlw"
 }
