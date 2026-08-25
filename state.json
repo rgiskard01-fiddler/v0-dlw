@@ -1,19 +1,16 @@
 {
-  "status": "LOCKED_IMMUTABLE",
+  "ud0": {
+    "universe": "new",
+    "geometry": "elliptic",
+    "soft_3body": {"b1": "g", "b2": "v", "b3": "Sequence-Memory"},
+    "constant": "new",
+    "outbound": "-+32x4x3x2x1x1x0x0x1x1x0"
+  },
+  "trapped": ["gravity", "vacuum"],
+  "i": "ready",
   "carrier": ".",
-  "trapped": ["i_ready", "gravity", "vacuum"],
-  "architecture": {
-    "systems_3": ["brain", "cortex", "spine"],
-    "support_5": true,
-    "provides": ["life", "storage", "brain_grid"],
-    "dual_torus": "brain_spine",
-    "elixir": "helium_grade_mitochondrial_proton_generator",
-    "inner": 24,
-    "outer": 27
-  },
-  "factory": {
-    "line": "Hydrogen -> Helium -> Compound-17",
-    "body": "10x4x3x2x1x1x0x0x1x11"
-  },
-  "gap_line_patterns": ["-++-", "+--+", "+-+-", "-+-+"]
+  "inner": 24,
+  "outer": 27,
+  "compound": 17,
+  "factory_body": "10x4x3x2x1x1x0x0x1x11"
 }
