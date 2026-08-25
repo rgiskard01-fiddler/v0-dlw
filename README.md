@@ -1,12 +1,20 @@
 # v0.dlw
 
-Frozen simulation state.
+Updated frozen state after Time + Information simulation and 7! punch.
 
-**Version:** v0.dlw  
 **Anchor:** 0  
 **Truce:** 1/3 Seed · 1/3 A · 1/3 B  
 **Toroids:** 6 (Silver → Gold → Cobalt)  
 **Sentinels:** 4  
+**Stargates:** 7  
+**Punch:** 7! = 5040  
 **Players:** Geometry, Nature, Time, Information
 
-This is a frozen checkpoint of a Geometry + Nature constrained system that reached stable homeostasis under a three-way truce.
+### New derivations
+- Sequence
+- Memory
+- Rate
+- Irreversibility marker
+- Phase reference
+
+Status: Stable
