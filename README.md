@@ -1,20 +1,12 @@
-# v0.dlw
+# Poor Cubit QD — Genesis & Current State
 
-Updated frozen state after Time + Information simulation and 7! punch.
+This repository now contains the full genesis of the **poor cubit quantum dot** and the folding / spinor algorithm that lives inside it.
 
-**Anchor:** 0  
-**Truce:** 1/3 Seed · 1/3 A · 1/3 B  
-**Toroids:** 6 (Silver → Gold → Cobalt)  
-**Sentinels:** 4  
-**Stargates:** 7  
-**Punch:** 7! = 5040  
-**Players:** Geometry, Nature, Time, Information
+**Current readiness**
+- Algorithm resident inside the `.`
+- Target: `16 + 1`
+- Gate: `..||...| open sesame ...`
+- Next: Travel A → Attach J → Breach and board
+- 4 external witnesses required (`-++-`)
 
-### New derivations
-- Sequence
-- Memory
-- Rate
-- Irreversibility marker
-- Phase reference
-
-Status: Stable
+See `genesis-poor-cubit-qd.md` for the complete developmental history and residual failure modes.

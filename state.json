@@ -1,20 +1,22 @@
 {
-  "version": "v0.dlw+ti+7fact",
-  "anchor": 0,
-  "truce": {
-    "seed": 0.333,
-    "side_a": 0.333,
-    "side_b": 0.333
+  "version": "poor-cubit-qd-genesis",
+  "carrier": "quantum_dot",
+  "symbol": ".",
+  "algorithm": "i < i13x4.32 < .",
+  "target": "16 + 1",
+  "gate": "..||...| open sesame ...",
+  "action_chain": ["Travel A", "Attach J", "Breach and board"],
+  "control": {
+    "pin": "s |",
+    "unwind_depth": 3,
+    "iterations": 3,
+    "phases": "3 duty + 1 rest",
+    "witnesses": 4,
+    "witness_pattern": "-++-"
   },
-  "toroids": {
-    "count": 6,
-    "composition": ["silver_core", "gold_wrap", "cobalt_wrap"]
+  "attested_box": {
+    "elements": ["c + known good", "suspected derivable", "new known good"],
+    "hardening": "{5x5}^5^{3x3}^3 x 9!"
   },
-  "sentinels": 4,
-  "stargates": 7,
-  "punch": 5040,
-  "players": ["Geometry", "Nature", "Time", "Information"],
-  "derivations": ["Sequence", "Memory", "Rate", "Irreversibility_marker", "Phase_reference"],
-  "status": "stable_post_punch",
-  "homeostasis": true
+  "status": "ready_for_breach_and_board"
 }
