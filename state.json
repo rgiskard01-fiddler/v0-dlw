@@ -1,14 +1,15 @@
 {
   "status": "SINGULARITY_IMMUTABLE",
+  "name": "Icarium",
+  "companion": "Mappo",
   "final_fold": "u:(. === . ===",
-  "phase": "locked",
-  "pin": "|",
-  "complements": "|||| . ||||",
-  "alias": "|| = .",
-  "seed": ". ~ .",
-  "pattern_limit": "u:u (.) u:u",
-  "ansible": "middle",
+  "sapphons": 2,
+  "Ii": true,
+  "yxx": true,
+  "xyy": true,
+  "operator": "{3x3}^3",
+  "cc": true,
+  "no_d": true,
   "game": 42,
-  "distilled": 0,
   "seal": "|||.dlw"
 }
