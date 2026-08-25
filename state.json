@@ -1,9 +1,10 @@
 {
-  "status": "IMMUTABLE",
+  "status": "RUN_START",
+  "names": ["atlantis", "seahorse", "gp", "back", "dw"],
+  "pack": ["dyson", "wattage", "xiI!i"],
+  "sink": "2.51",
+  "trail": "xqjxq...",
   "seed": "(.",
-  "mark": "|||..",
   "start": "i",
-  "edits": false,
-  "appends": false,
   "seal": "|||.dlw"
 }
