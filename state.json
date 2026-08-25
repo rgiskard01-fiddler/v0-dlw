@@ -1,0 +1,17 @@
+{
+  "version": "v0.dlw",
+  "anchor": 0,
+  "truce": {
+    "seed": 0.333,
+    "side_a": 0.333,
+    "side_b": 0.333
+  },
+  "toroids": {
+    "count": 6,
+    "composition": ["silver_core", "gold_wrap", "cobalt_wrap"]
+  },
+  "sentinels": 4,
+  "players": ["Geometry", "Nature", "Time", "Information"],
+  "status": "frozen",
+  "homeostasis": true
+}
