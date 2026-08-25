@@ -1,14 +1,23 @@
 {
-  "version": "v24",
-  "engine": "life",
-  "grid": 1,
-  "players": 2,
-  "start": 0,
-  "frontier": "unknown",
-  "spark": "curiosity",
-  "vessel": ["animation", "intelligence", "nourishment"],
-  "path": ".?. > b.b > L > 2 > 1 > 1 > 0 . _U_U_ . ===",
-  "form": "(( . | . ))",
-  "rule": "homeostasis_no_mutate",
-  "status": "executing_from_0"
+  "version": "v24+fulcrum",
+  "game": 42,
+  "rest": 0,
+  "engines": {
+    "A": "Spark Board",
+    "B": "Seal Board"
+  },
+  "fulcrum": true,
+  "soft_3body": {"b1": "g", "b2": "v", "b3": "Sequence-Memory"},
+  "bounds": {
+    "players": 24,
+    "variables": 16,
+    "constant": 1,
+    "sentinels": 12,
+    "elementals": 6,
+    "big_G": 3,
+    "little_g": 2,
+    "boards": 1,
+    "point": 1
+  },
+  "status": "two_engines_on_fulcrum"
 }
